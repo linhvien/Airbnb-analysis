@@ -2,6 +2,7 @@
 # Introduction
 Airbnb which stands for "Air Bed and Breakfast" is a community platform for booking and renting rooms and apartments. Airbnb allows both private and commercial landlords to rent homes or parts of it through the platform. With the new exciting way in rental service, Airbnb has achieved many fruits since its launch in 2008 until now. According to the Airbnb Statistics (iProperty Management, 2021), more than 900 million overnight stays were booked through Airbnb. More than 5.6 million rental listings of Airbnb are existed in over 200,000 different cities and regions. Airbnb has cooperated with 4 million hosts. Since 2016, Airbnb has partnered with the property suppliers, two of Interplan's subsidiaries, Interhome and Inter Chalet, companies of the Migros. Migros quickly became the largest provider of apartments offered on Airbnb in Switzerland. Thus, the report will focus on the Airbnb activities in Switzerland, especially Zurich in order to make the study more insightful. 
 Firstly, the report provides the overview about Airbnb property market in Zurich based on customer perspective. Then, the study digs deep about Airbnb activities in Zurich, Switzerland in term of property, host, and price. There is a detailed list of hypothesis questions for the study.
+
 Regarding overview analysis,
 -	What is the average rental price for listings in Zurich, Switzerland?
 -	How many listings are there in Zurich, Switzerland?
