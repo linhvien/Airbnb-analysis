@@ -9,22 +9,25 @@ Regarding overview analysis,
 -	How proportional is review rating of listings in Zurich area?
 -	What are the popular neighborhoods with the highest number of listings?
 -	How many hosts are there on Zurich Airbnb? Who have the highest number of listings?
+
 Regarding neighborhood/property analysis,
 -	Where is top expensive neighborhood in Zurich area in term of Airbnb service?
 -	How much is each room type?
 -	What is the proportion of room type by property type with respect to the number of listings?
 -	What is the proportion of room type by property type with respect to price?
+
 Regarding host analysis,
 -	How many new hosts are registered in every year?
 -	How many hosts have a single listing or multiple listings?
 -	How proportional is a verified host in Zurich, Switzerland?
 -	How proportional is a super host in Zurich, Switzerland?
 -	Who are top host earners?
+
 Regarding price aspect,
 -	What is price distribution?
 -	Is there any relationship between earning and price?
 -	Is there any relationship between high rating review and prices?
-Data used – source of data
+# Data used – source of data
 The data file is provided over the official website of Airbnb. The data is downloaded directly from insideairbnb.com (Airbnb, 2021). In order to serve for the purpose of study, the data file comprises three datasets namely Listings, Calendar, and Reviews. Listings dataset had all the information regarding the listings. It had Host name, location, neighborhood, price, monthly price, review score and number of reviews. Calendar dataset had past booking data. Reviews dataset had information regarding the reviews with respect to listing ID. To facilitate the analysis, the study adopts Tableau Public, and joined the three tables together on the basis of Listing ID. The datasets include all needed information about hosts, property, price and income metrics to serve for the study purpose, and draw conclusions.
 # Analysis
 ## Overview of Airbnb Zurich
